@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BB52&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+KAUAN+CAROLINO+DA+SILVA;I'm+18+years+old;I'm+from+Brasil,+CE;I'm+studying+systems+development+at+Unifametro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauanCarolino&show_icons=true&count_private=true&hide_border=true&title_color=3198FF&icon_color=3198FF&text_color=c9d1d9&bg_color=0d1117" alt="KauanCarolino github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCarolino&layout=compact&hide_border=true&title_color=3198FF&text_color=3198FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCarolino&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=3198FF&icon_color=3198FF&text_color=c9d1d9&bg_color=0d1117" alt="KauanCarolino github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KauanCarolino&layout=compact&hide_border=true&title_color=3198FF&text_color=3198FF&bg_color=0d1117&show_icons=true&theme=dark#gh-dark-mode-only" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauanCarolino&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
