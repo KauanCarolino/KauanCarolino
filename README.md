@@ -4,17 +4,9 @@
 
 
 <div align="center">  
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=KauanCarolino&layout=compact&hide_border=true&title_color=3198FF&text_color=3198FF&bg_color=0d1117&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api?username=KauanCarolino&layout=compact&hide_border=true&title_color=3198FF&text_color=3198FF&bg_color=0d1117&show_icons=true&theme=dark#gh-dark-mode-only" />
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCarolino&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=3198FF&icon_color=3198FF&text_color=c9d1d9&bg_color=0d1117" alt="KauanCarolino github stats"/>
 </div>
-
-
-@media only screen and (max-width: 480px) {
-  <div align="center">  
-  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=KauanCarolino&layout=compact&hide_border=true&title_color=3198FF&text_color=3198FF&bg_color=0d1117&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCarolino&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=3198FF&icon_color=3198FF&text_color=c9d1d9&bg_color=0d1117" alt="KauanCarolino github stats"/>
-</div>
-}
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauanCarolino&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
