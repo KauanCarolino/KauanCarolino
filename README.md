@@ -1,51 +1,65 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46A0FA&height=120&section=header&text=Kauan+Carolino+da+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=140&section=header&text=%20👨‍💻%20Kauan%20Carolino%20da%20Silva&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BB52&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+KAUAN+CAROLINO+DA+SILVA;I'm+from+Brasil,+CE;I'm+studying+systems+development+at+Unifametro;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanCarolino&layout=compact&hide_border=true&title_color=3198FF&text_color=3198FF&bg_color=0d1117&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCarolino&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=3198FF&icon_color=3198FF&text_color=c9d1d9&bg_color=0d1117" alt="KauanCarolino github stats"/>
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauanCarolino&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KauanCarolino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://instagram.com/kauan_carolino?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a><a>ﾠﾠ<a href="https://www.linkedin.com/in/kauan-carolino-8bb2b0194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
-### Main skills:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=4CCF8C&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-
-### Tools:
-![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-  
-### Other Knowledge:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF7F50&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KauanCarolino}/count.svg" /></p> 
-<br></div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3198FF&height=120&section=footer"/>
+
+### Backend Developer • Django • Python • PostgreSQL
+
+Desenvolvedor focado em aplicações web escaláveis utilizando Django, Django REST Framework, PostgreSQL e Tailwind CSS.
+
+Atualmente cursando **Inteligência Artificial** na Unifor.
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=4CCF8C)
+![Django REST](https://img.shields.io/badge/Django_REST-0D1117?style=for-the-badge&logo=django&logoColor=FF6B6B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+## 📌 Current Focus
+
+- Arquitetura backend com Django
+- APIs REST escaláveis
+- Docker & ambientes de desenvolvimento
+- PostgreSQL e otimização de queries
+- Frontend moderno com Tailwind CSS
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kauan-carolino-8bb2b0194/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://instagram.com/kauan_carolino" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
