@@ -54,10 +54,6 @@ Atualmente cursando **Inteligência Artificial** na Unifor.
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="https://instagram.com/kauan_carolino" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
 </div>
 
 ---
